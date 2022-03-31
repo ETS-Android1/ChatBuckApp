@@ -2,6 +2,7 @@
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#448FFF"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -53,8 +54,9 @@
             app:layout_constraintTop_toBottomOf="@+id/activity_registration_vp_carousel">
 
             <com.google.android.material.textfield.TextInputEditText
+                android:textStyle="bold"
                 android:id="@+id/activity_registration_et_passphrase"
-                style="@style/AdamantLight.TextInput"
+                android:textSize="17dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="textMultiLine|textNoSuggestions"
@@ -87,7 +89,8 @@
                 <!--app:srcCompat="@drawable/ic_save" />-->
 
             <TextView
-                style="@style/AdamantLight.TextExplanation"
+
+                android:textSize="15dp"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"

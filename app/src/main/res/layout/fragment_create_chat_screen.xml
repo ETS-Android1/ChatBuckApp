@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="#448FFF"
     android:id="@+id/fragment_create_chat_cl_faded_layout"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -13,6 +14,7 @@
             android:layout_height="match_parent">
 
             <TextView
+                android:textStyle="bold"
                 android:id="@+id/textView8"
                 style="@style/AdamantLight.TextHeader"
                 android:layout_width="match_parent"
@@ -48,6 +50,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/fragment_create_chat_et_address"
                     android:textColorHint="@color/secondary"
+                    android:textStyle="bold"
                     style="AdamantLight.EditTextInput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
