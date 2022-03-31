@@ -25,7 +25,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintWidth_default="percent"
             app:layout_constraintWidth_percent=".5"
-            app:srcCompat="@drawable/empty_view_background" />
+            app:srcCompat="@drawable/pp__2_" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <androidx.recyclerview.widget.RecyclerView

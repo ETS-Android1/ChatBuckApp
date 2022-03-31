@@ -36,7 +36,7 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/ic_welcome_card1" />
+                    app:srcCompat="@drawable/pp__2_" />
 
                 <com.agrawalsuneet.loaderspack.loaders.ArcProgressLoader
                     android:id="@+id/activity_pin_code_pb_progress"

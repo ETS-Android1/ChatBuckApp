@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">ADAMANT Messenger</string>
+    <string name="app_name">ChatBuck Messenger</string>
 
     <string name="activity_splash_text">Receiving account information</string>
 
-    <string name="activity_login_tv_title">ADAMANT</string>
+    <string name="activity_login_tv_title">ChatBuck</string>
     <string name="activity_login_tv_subtitle">A top-notch anonymous messenger encrypted with a Blockchain</string>
     <string name="activity_login_tv_create_new_suggestion">Or create a new anonymous address:</string>
     <string name="activity_login_tv_new_password_label"><b>Save</b> the passphrase for new Wallet and Messenger account. There is no login to enter Wallet, only the passphrase needed. If lost, no way to recover it.</string>
     <string name="activity_login_et_pass_phrase">Enter your passphrase</string>
-    <string name="activity_login_btn_enter">Login now</string>
+    <string name="activity_login_btn_enter">Login</string>
     <string name="activity_login_btn_enter_in_net">Login in net</string>
     <string name="activity_login_tv_login_by_qr">Login by stored QR-code:</string>
-    <string name="activity_login_btn_new_account">Or create new anonymous address</string>
+    <string name="activity_login_btn_new_account">Sign Up</string>
 
     <string name="activity_show_qrcode_title_passphrase">QR-code of passphrase</string>
     <string name="activity_show_qrcode_title_address">QR-code of address</string>
@@ -37,7 +37,7 @@
     <string name="activity_pincode_confirm">Confirm pin-code</string>
     <string name="activity_pincode_remove_pin">Remove PIN</string>
 
-    <string name="activity_create_chat_recipient">Recipient address</string>
+    <string name="activity_create_chat_recipient">Enter the number</string>
     <string name="activity_create_chat_send">Start new chat</string>
 
     <string name="dialog_rename_contact_title">Rename contact</string>
@@ -53,7 +53,7 @@
     <string name="activity_messages_action_rename">Rename</string>
     <string name="activity_messages_action_copy">Copy address</string>
     <string name="activity_messages_action_qrcode">Show QR-code</string>
-    <string name="activity_messages_action_type">Type message</string>
+    <string name="activity_messages_action_type" translatable="false">Type message</string>
 
     <string name="activity_show_qr_code_title">QR-Code</string>
     <string name="activity_show_qr_code_btn_save">Save qr-code in gallery</string>
@@ -166,7 +166,7 @@
     <string name="fcm_notification_service_change_token_title">FCM updated token</string>
     <string name="fcm_notification_service_change_token_message">FCM updated token. %s ADM has been withdrawn from your account</string>
     <string name="fcm_notification_service_full">Firebase Messaging Service</string>
-    <string name="fcm_notification_service_description">Notifications of new messages are sent by the ADAMANT Notification Service (Transport to your device is the Firebase Messaging Service).
+    <string name="fcm_notification_service_description">Notifications of new messages are sent by the ChatBuck Notification Service (Transport to your device is the Firebase Messaging Service).
              Notifications come almost instantly, but you need to register the device in the service. It is safe and maintains a high level of security. The cost of subscription, unsubscribe and token change (FCM can replace it at any time, but this rarely happens) is 0.001 ADM.</string>
 
     <string name="local_notification_service_short">Local</string>
@@ -181,11 +181,11 @@
 
 
     <!--HELLO-->
-    <string name="hello_message_ico_name">ADAMANT tokens</string>
-    <string name="hello_message_ico"><p>You have a possibility to <b>Join the ICO</b> of ADAMANT, the most secure and anonymous messenger. Learn more on Adamant.im website or in the Whitepaper.</p><p>Please make sure your have saved the passphrase to this account — exit your account and open it again. Better save your password on a sheet of paper also. But remember, only <b>you are responsible for the passphrase safety</b>. It cannot be recovered. And if other person will get it, your money will be stolen. Treat this question as secure, as if tokens in your wallet will cost a billion dollars some time.</p><p>To buy ADM tokens, go to Wallet tab and click Join the ICO, or open the page Adamant.im/ico/ in the web browser. In the ICO form enter your ADAMANT address — you will receive ADM tokens there. If you moved from Messenger App, your ADM address will be filled already, other way go back to Messenger and click ADAMANT address to copy it to clipboard. Next, choose crypto you want to spend and its amount. You\'ll see how much ADM tokens you will receive, including volume bonus: 20–30 ETH: +20%, 30–50 ETH: +30%, 50–90 ETH: +40%, 90+ ETH: +50%. Click Buy ADAMANT tokens. You\'ll get unique address where you need to send crypto. As soon as your transaction will be confirmed, you\'ll receive ADM tokens. Transaction can be done <b>from any wallet or exchange</b>. It is not necessary to transfer exact amount including transaction fees, the payment will be processed anyway.</p><p>After you receive ADM tokens, we recommend to keep them as long as possible. All of unsold tokens during ICO will be distributed among users\' wallets, adding 5% monthly. Additional info is on Adamant.im website and in the Whitepaper.</p><p>Do not reply to this message, it is a system account. If you still have any questions, contact account U15677078342684640219.</p></string>
+    <string name="hello_message_ico_name">ChatBuck tokens</string>
+    <string name="hello_message_ico"><p>You have a possibility to <b>Join the ICO</b> of ChatBuck, the most secure and anonymous messenger. Learn more on ChatBuck.im website or in the Whitepaper.</p><p>Please make sure your have saved the passphrase to this account — exit your account and open it again. Better save your password on a sheet of paper also. But remember, only <b>you are responsible for the passphrase safety</b>. It cannot be recovered. And if other person will get it, your money will be stolen. Treat this question as secure, as if tokens in your wallet will cost a billion dollars some time.</p><p>To buy ADM tokens, go to Wallet tab and click Join the ICO, or open the page ChatBuck.com in the web browser. In the ICO form enter your ADAMANT address — you will receive ADM tokens there. If you moved from Messenger App, your ADM address will be filled already, other way go back to Messenger and click ChatBuck address to copy it to clipboard. Next, choose crypto you want to spend and its amount. You\'ll see how much ADM tokens you will receive, including volume bonus: 20–30 ETH: +20%, 30–50 ETH: +30%, 50–90 ETH: +40%, 90+ ETH: +50%. Click Buy ADAMANT tokens. You\'ll get unique address where you need to send crypto. As soon as your transaction will be confirmed, you\'ll receive ADM tokens. Transaction can be done <b>from any wallet or exchange</b>. It is not necessary to transfer exact amount including transaction fees, the payment will be processed anyway.</p><p>After you receive ADM tokens, we recommend to keep them as long as possible. All of unsold tokens during ICO will be distributed among users\' wallets, adding 5% monthly. Additional info is on Adamant.im website and in the Whitepaper.</p><p>Do not reply to this message, it is a system account. If you still have any questions, contact account U15677078342684640219.</p></string>
 
-    <string name="hello_message_baunty_name">ADAMANT Bounty</string>
-    <string name="hello_message_baunty"><p>Welcome to ADAMANT, the most secure and anonymous messenger. Remember, your security and anonymity is up to you also. Do not follow links you receive, otherwise your IP can be compromised. Do not trust browser extensions. Better to share your ADM address personally, but not using other messengers. Keep your secret passphrase secure. Set a password on your device or logout before leaving.</p><p>Learn more about security and anonymity at <a href="https://adamant.im/staysecured/" target="_blank">https://adamant.im/staysecured/</a>.</p><p>All the transactions within the blockchain do need to have their minimal fees. This is necessary to support the network infrastructure. To start messengning now, <b>get free tokens</b> — go to Wallet tab and click Free ADM tokens. Then click Start new chat on Chats tab and put your interlocutor\'s address. To copy your address, click on ADAMANT address on Wallet tab.</p><p>Do not reply to this message, it is a system account. If you still have any questions, contact account U15677078342684640219.</p></string>
+    <string name="hello_message_baunty_name">ChatBuck Bounty</string>
+    <string name="hello_message_baunty"><p>Welcome to ChatBuck, the most secure and anonymous messenger. Remember, your security and anonymity is up to you also. Do not follow links you receive, otherwise your IP can be compromised. Do not trust browser extensions. Better to share your ADM address personally, but not using other messengers. Keep your secret passphrase secure. Set a password on your device or logout before leaving.</p><p>Learn more about security and anonymity at <a href="https://adamant.im/staysecured/" target="_blank">https://adamant.im/staysecured/</a>.</p><p>All the transactions within the blockchain do need to have their minimal fees. This is necessary to support the network infrastructure. To start messengning now, <b>get free tokens</b> — go to Wallet tab and click Free ADM tokens. Then click Start new chat on Chats tab and put your interlocutor\'s address. To copy your address, click on ChatBuck address on Wallet tab.</p><p>Do not reply to this message, it is a system account. If you still have any questions, contact account U15677078342684640219.</p></string>
 
     <!--WELCOME CARDS-->
     <string name="welcome_card_1">Welcome to ADAMANT, the genuine &lt;b&gt;blockchain&lt;/b&gt; messenger.</string>

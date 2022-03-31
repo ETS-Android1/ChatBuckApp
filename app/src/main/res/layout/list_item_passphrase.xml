@@ -18,5 +18,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_adm_line" />
+        app:srcCompat="@drawable/pp__2__removebg_preview" />
 </androidx.constraintlayout.widget.ConstraintLayout>

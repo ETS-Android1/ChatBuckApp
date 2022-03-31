@@ -4,9 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#448FFF"
     tools:context=".ui.CreateChatScreen">
 
+
     <EditText
+
+        android:textStyle="bold"
         android:id="@+id/activity_create_chat_et_address"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -58,6 +62,7 @@
 
 
     <Button
+        android:backgroundTint="#23262F"
         android:id="@+id/activity_create_chat_btn_create"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
